@@ -1,7 +1,7 @@
 b_no=document.getElementById('na');
 b_ye=document.getElementById('ye');
 text=document.getElementById("txt")
-no_txt=["aww :(", "pls? :(", "ilysm shona","cmon i mish u", "do u want a huggie?", "pwease i wuv you :(", "pretty please sunshine?", "baby pls? :(", "krisan ilysm :(((","dont do this to me:((", "il be so lonely", "dont u want us togtehr?","bbg i wont let you down","im gonna cry now","tears came :(","fine sigh","ill ask one last time after this","will you be mine?","mwah ill alwyas love you anyways"];
+no_txt=["aww :(", "pls? :(", "ilysm shona","cmon i mish u", "do u want a huggie?", "pwease i wuv you :(", "pretty please sunshine?", "baby pls? :(", "krisan ilysm :(((","dont do this to me:((", "il be so lonely", "dont u want us together?","bbg i wont let you down","im gonna cry now","tears came :(","fine sigh","ill ask one last time after this","will you be mine?","mwah ill alwyas love you anyways"];
 i=0;
 fs=18
 b_no.style.fontSize=fs+"pt"
